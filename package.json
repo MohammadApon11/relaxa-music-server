@@ -2,12 +2,12 @@
   "name": "server",
   "version": "1.0.0",
   "description": "Music App",
-  "main": "app.js",
+  "main": "index.js",
   "author": "Mohammad Apon",
   "license": "MIT",
   "scripts": {
-    "dev": "nodemon app.js",
-    "start": "node app.js"
+    "dev": "nodemon index.js",
+    "start": "node index.js"
   },
   "dependencies": {
     "cors": "^2.8.5",
